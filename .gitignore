@@ -1,0 +1,93 @@
+# ==========================================
+# CREDENCIALES Y SECRETOS
+# ==========================================
+
+.env
+.env.*
+!.env.example
+
+*.pem
+*.key
+*.pfx
+*.p12
+*.cer
+*.crt
+
+secrets/
+credentials/
+secrets.json
+credentials.json
+
+# Configuración local de Databricks
+.databrickscfg
+.databricks/
+
+# Configuración local de Azure
+.azure/
+azureProfile.json
+
+# ==========================================
+# PYTHON / PYSPARK
+# ==========================================
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+.venv/
+venv/
+env/
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ==========================================
+# JUPYTER NOTEBOOKS
+# ==========================================
+
+.ipynb_checkpoints/
+
+# ==========================================
+# DATABRICKS / SPARK
+# ==========================================
+
+spark-warehouse/
+metastore_db/
+derby.log
+
+*.log
+logs/
+
+# ==========================================
+# ARCHIVOS TEMPORALES
+# ==========================================
+
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# ==========================================
+# SISTEMA OPERATIVO
+# ==========================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# IDE
+# ==========================================
+
+.idea/
+.vscode/
+
+# ==========================================
+# ARCHIVOS DE SALIDA GENERADOS LOCALMENTE
+# ==========================================
+
+/output/
+/outputs/
+/temp/

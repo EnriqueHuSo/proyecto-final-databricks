@@ -1,0 +1,1001 @@
+producto_id,nombre_producto,categoria,marca,costo_unitario,precio_venta,es_activo
+1,Lampara Modelo 0001,Hogar,AndesTech,1402.63,2060.41,1
+2,Lampara Modelo 0002,Hogar,Nova,542.46,645.87,1
+3,Silla Modelo 0003,Oficina,Qori,396.33,444.5,1
+4,Hub USB Modelo 0004,Accesorios,Orion,1261.12,1821.05,1
+5,Adaptador Modelo 0005,Accesorios,Kallpa,813.65,1153.92,1
+6,Ventilador Modelo 0006,Hogar,Kallpa,1001.32,1523.02,1
+7,Teclado Modelo 0007,Tecnologia,Inti,1052.27,1315.51,1
+8,Ventilador Modelo 0008,Hogar,AndesTech,214.34,302.43,1
+9,Laptop Modelo 0009,Tecnologia,AndesTech,660.18,755.16,1
+10,Funda Modelo 0010,Accesorios,Orion,557.08,729.69,1
+11,Mouse Modelo 0011,Tecnologia,Qori,278.99,373.16,1
+12,Mouse Modelo 0012,Tecnologia,Pacific,1676.91,2670.07,1
+13,Cargador Modelo 0013,Accesorios,AndesTech,1204.66,1839.64,1
+14,Hub USB Modelo 0014,Accesorios,Inti,290.97,337.23,1
+15,Cargador Modelo 0015,Accesorios,AndesTech,1205.02,1673.73,1
+16,Laptop Modelo 0016,Tecnologia,Orion,529.9,701.63,1
+17,Silla Modelo 0017,Oficina,AndesTech,1309.29,1649.09,0
+18,Archivador Modelo 0018,Oficina,Qori,1473.43,1828.49,1
+19,Cargador Modelo 0019,Accesorios,Kallpa,352.5,572.72,1
+20,Archivador Modelo 0020,Oficina,Qori,1084.69,1616.37,1
+21,Cable USB Modelo 0021,Accesorios,Kallpa,839.66,994.4,1
+22,Impresora Modelo 0022,Tecnologia,Nova,1355.05,1991.06,1
+23,Audifonos Modelo 0023,Tecnologia,Inti,786.76,1156.03,1
+24,Monitor Modelo 0024,Tecnologia,Pacific,869.97,1340.29,1
+25,Papel Modelo 0025,Oficina,AndesTech,680.48,850.76,1
+26,Aspiradora Modelo 0026,Hogar,Nova,1599.97,2480.78,0
+27,Papel Modelo 0027,Oficina,Nova,1364.41,2042.46,1
+28,Silla Modelo 0028,Oficina,Orion,1006.29,1333.5,1
+29,Lampara Modelo 0029,Hogar,Orion,1416.26,1717.26,1
+30,Laptop Modelo 0030,Tecnologia,Inti,1607.19,2105.73,0
+31,Cafetera Modelo 0031,Hogar,Inti,764.51,970.84,1
+32,Licuadora Modelo 0032,Hogar,Kallpa,1162.96,1730.27,1
+33,Escritorio Modelo 0033,Oficina,AndesTech,979.86,1504.98,1
+34,Licuadora Modelo 0034,Hogar,Nova,814.41,1007.7,1
+35,Silla Modelo 0035,Oficina,Inti,121.74,194.82,1
+36,Hub USB Modelo 0036,Accesorios,AndesTech,467.25,541.92,1
+37,Cargador Modelo 0037,Accesorios,Nova,1339.85,1775.01,1
+38,Cafetera Modelo 0038,Hogar,Inti,906.38,1127.48,1
+39,Hub USB Modelo 0039,Accesorios,Inti,1595.85,2388.14,1
+40,Ventilador Modelo 0040,Hogar,Qori,1151.63,1299.03,1
+41,Cargador Modelo 0041,Accesorios,Qori,1601.58,1858.07,1
+42,Mouse Modelo 0042,Tecnologia,Pacific,688.54,774.86,1
+43,Cargador Modelo 0043,Accesorios,AndesTech,64.16,102.94,1
+44,Impresora Modelo 0044,Tecnologia,Orion,199.05,267.05,1
+45,Audifonos Modelo 0045,Tecnologia,Nova,182.26,237.77,1
+46,Cargador Modelo 0046,Accesorios,Inti,366.81,489.31,1
+47,Impresora Modelo 0047,Tecnologia,Inti,1191.38,1930.34,1
+48,Cargador Modelo 0048,Accesorios,Pacific,773.68,1038.56,1
+49,Escritorio Modelo 0049,Oficina,Orion,878.37,1126.85,1
+50,Papel Modelo 0050,Oficina,Kallpa,1366.95,1822.38,1
+51,Lampara Modelo 0051,Hogar,AndesTech,306.65,486.4,1
+52,Escritorio Modelo 0052,Oficina,Inti,31.42,42.65,1
+53,Aspiradora Modelo 0053,Hogar,Nova,614.25,747.19,1
+54,Aspiradora Modelo 0054,Hogar,AndesTech,570.12,878.86,1
+55,Adaptador Modelo 0055,Accesorios,AndesTech,648.37,977.45,1
+56,Ventilador Modelo 0056,Hogar,Inti,493.98,699.91,1
+57,Archivador Modelo 0057,Oficina,AndesTech,1399.2,2014.28,1
+58,Adaptador Modelo 0058,Accesorios,Inti,400.41,637.45,1
+59,Archivador Modelo 0059,Oficina,Orion,423.52,487.52,1
+60,Aspiradora Modelo 0060,Hogar,Pacific,415.15,594.85,1
+61,Mouse Modelo 0061,Tecnologia,Kallpa,673.81,947.91,1
+62,Impresora Modelo 0062,Tecnologia,Inti,1431.25,2127.87,1
+63,Hub USB Modelo 0063,Accesorios,Kallpa,278.37,390.52,1
+64,Escritorio Modelo 0064,Oficina,Qori,1619.8,2466.82,1
+65,Funda Modelo 0065,Accesorios,Kallpa,307.31,504.34,0
+66,Cargador Modelo 0066,Accesorios,Orion,1607.16,2645.97,1
+67,Licuadora Modelo 0067,Hogar,Nova,1693.27,2378.61,1
+68,Monitor Modelo 0068,Tecnologia,Kallpa,878.38,1179.5,1
+69,Aspiradora Modelo 0069,Hogar,Pacific,433.46,591.71,1
+70,Aspiradora Modelo 0070,Hogar,Inti,591.73,916.42,1
+71,Adaptador Modelo 0071,Accesorios,Inti,439.78,582.93,1
+72,Silla Modelo 0072,Oficina,Nova,416.74,473.32,1
+73,Adaptador Modelo 0073,Accesorios,Pacific,1352.09,1856.1,1
+74,Lampara Modelo 0074,Hogar,Inti,232.58,262.66,1
+75,Tinta Modelo 0075,Oficina,AndesTech,1752.66,2638.82,1
+76,Aspiradora Modelo 0076,Hogar,Kallpa,1334.33,1926.35,1
+77,Funda Modelo 0077,Accesorios,Kallpa,411.93,558.29,1
+78,Audifonos Modelo 0078,Tecnologia,AndesTech,735.36,931.81,0
+79,Aspiradora Modelo 0079,Hogar,Nova,239.41,307.21,1
+80,Aspiradora Modelo 0080,Hogar,Pacific,115.7,172.26,1
+81,Adaptador Modelo 0081,Accesorios,Pacific,87.2,103.61,1
+82,Aspiradora Modelo 0082,Hogar,Orion,1006.07,1567.79,1
+83,Laptop Modelo 0083,Tecnologia,AndesTech,727.96,928.86,1
+84,Cafetera Modelo 0084,Hogar,Nova,805.6,981.55,1
+85,Hub USB Modelo 0085,Accesorios,Inti,1252.1,1688.27,1
+86,Cafetera Modelo 0086,Hogar,Nova,1141.39,1615.17,1
+87,Impresora Modelo 0087,Tecnologia,Pacific,1399.71,2192.66,1
+88,Mouse Modelo 0088,Tecnologia,Pacific,1756.22,2773.39,1
+89,Monitor Modelo 0089,Tecnologia,Kallpa,63.6,75.19,1
+90,Audifonos Modelo 0090,Tecnologia,Kallpa,596.33,902.38,1
+91,Tinta Modelo 0091,Oficina,Orion,1235.92,1487.23,1
+92,Escritorio Modelo 0092,Oficina,Inti,372.25,419.94,1
+93,Licuadora Modelo 0093,Hogar,AndesTech,1235.43,1412.63,1
+94,Ventilador Modelo 0094,Hogar,Pacific,982.62,1393.64,1
+95,Monitor Modelo 0095,Tecnologia,Pacific,1041.26,1604.1,1
+96,Papel Modelo 0096,Oficina,Pacific,727.8,1064.78,1
+97,Cargador Modelo 0097,Accesorios,Kallpa,480.71,654.46,1
+98,Hub USB Modelo 0098,Accesorios,AndesTech,1021.66,1643.29,1
+99,Hub USB Modelo 0099,Accesorios,Inti,65.13,84.9,1
+100,Adaptador Modelo 0100,Accesorios,Pacific,1530.61,1928.47,1
+101,Escritorio Modelo 0101,Oficina,Inti,274.7,363.01,1
+102,Teclado Modelo 0102,Tecnologia,Qori,498.19,723.73,1
+103,Monitor Modelo 0103,Tecnologia,Nova,976.54,1137.53,1
+104,Archivador Modelo 0104,Oficina,Nova,697.9,1003.83,1
+105,Silla Modelo 0105,Oficina,Inti,1139.78,1785.15,1
+106,Impresora Modelo 0106,Tecnologia,Nova,1012.35,1268.94,1
+107,Impresora Modelo 0107,Tecnologia,Pacific,303.37,459.11,1
+108,Teclado Modelo 0108,Tecnologia,Inti,412.76,616.1,1
+109,Tinta Modelo 0109,Oficina,Orion,374.74,424.26,1
+110,Laptop Modelo 0110,Tecnologia,Pacific,1422.49,2108.51,1
+111,Laptop Modelo 0111,Tecnologia,Kallpa,1067.01,1661.69,0
+112,Cable USB Modelo 0112,Accesorios,Orion,742.86,976.23,0
+113,Archivador Modelo 0113,Oficina,Nova,1365.84,2247.0,0
+114,Hub USB Modelo 0114,Accesorios,AndesTech,840.58,1275.2,1
+115,Mouse Modelo 0115,Tecnologia,Qori,1118.45,1453.31,1
+116,Ventilador Modelo 0116,Hogar,Nova,1476.57,2397.72,1
+117,Tinta Modelo 0117,Oficina,AndesTech,1524.95,1712.05,1
+118,Monitor Modelo 0118,Tecnologia,AndesTech,1500.3,1958.95,1
+119,Audifonos Modelo 0119,Tecnologia,AndesTech,1318.56,1674.59,1
+120,Impresora Modelo 0120,Tecnologia,AndesTech,1152.24,1494.03,1
+121,Impresora Modelo 0121, tecnologia ,Inti,1730.16,2029.28,1
+122,Escritorio Modelo 0122,Oficina,Qori,687.56,1028.2,1
+123,Cargador Modelo 0123,Accesorios,Inti,1077.43,1528.68,1
+124,Funda Modelo 0124,Accesorios,Pacific,1428.42,2109.61,1
+125,Licuadora Modelo 0125,Hogar,Nova,1199.31,1794.34,1
+126,Cargador Modelo 0126,Accesorios,Qori,609.08,833.25,1
+127,Cafetera Modelo 0127,Hogar,Inti,414.44,665.99,1
+128,Tinta Modelo 0128,Oficina,Orion,1096.0,1489.32,1
+129,Silla Modelo 0129,Oficina,Qori,1500.2,2198.89,1
+130,Mouse Modelo 0130,Tecnologia,AndesTech,943.11,1231.07,0
+131,Aspiradora Modelo 0131,Hogar,Kallpa,282.62,445.49,1
+132,Cargador Modelo 0132,Accesorios,Qori,1017.56,1545.63,1
+133,Aspiradora Modelo 0133,Hogar,Nova,249.25,342.63,0
+134,Laptop Modelo 0134,Tecnologia,Nova,1509.26,2330.59,1
+135,Monitor Modelo 0135,Tecnologia,Qori,1131.94,1748.96,0
+136,Cable USB Modelo 0136,Accesorios,Kallpa,1445.65,2040.45,1
+137,Cable USB Modelo 0137,Accesorios,Qori,1610.48,1908.75,1
+138,Licuadora Modelo 0138,Hogar,Nova,143.68,178.69,1
+139,Mouse Modelo 0139,Tecnologia,Nova,,1085.79,1
+140,Laptop Modelo 0140,Tecnologia,Orion,841.9,976.48,1
+141,Teclado Modelo 0141,Tecnologia,AndesTech,1150.82,1840.9,1
+142,Tinta Modelo 0142,Oficina,AndesTech,5.16,6.16,1
+143,Cargador Modelo 0143,Accesorios,Qori,974.04,1139.87,1
+144,Ventilador Modelo 0144,Hogar,Pacific,1778.13,2853.51,1
+145,Ventilador Modelo 0145,Hogar,Orion,1334.23,1749.71,1
+146,Hub USB Modelo 0146,Accesorios,Pacific,52.55,61.21,1
+147,Monitor Modelo 0147,Tecnologia,Orion,1204.57,1842.85,1
+148,Silla Modelo 0148,Oficina,Kallpa,1221.93,1863.34,1
+149,Lampara Modelo 0149,Hogar,AndesTech,1140.92,1377.33,1
+150,Impresora Modelo 0150,Tecnologia,Kallpa,337.84,500.85,1
+151,Impresora Modelo 0151,Tecnologia,Inti,1048.38,1564.75,1
+152,Impresora Modelo 0152,Tecnologia,AndesTech,1689.79,2033.31,1
+153,Escritorio Modelo 0153,Oficina,Qori,538.48,749.89,1
+154,Hub USB Modelo 0154,Accesorios,Qori,245.54,361.61,1
+155,Hub USB Modelo 0155,Accesorios,Pacific,1037.61,1572.73,1
+156,Cargador Modelo 0156,Accesorios,Orion,431.61,488.75,1
+157,Ventilador Modelo 0157,Hogar,Kallpa,1149.56,1712.95,1
+158,Cable USB Modelo 0158,Accesorios,Nova,1409.67,1926.18,1
+159,Lampara Modelo 0159,Hogar,Nova,764.61,972.04,1
+160,Teclado Modelo 0160,Tecnologia,Orion,1645.93,2123.97,1
+161,Adaptador Modelo 0161,Accesorios,Orion,580.91,768.59,1
+162,Lampara Modelo 0162,Hogar,AndesTech,23.42,37.31,1
+163,Audifonos Modelo 0163,Tecnologia,Kallpa,113.36,140.12,1
+164,Cable USB Modelo 0164,Accesorios,Orion,1128.09,1691.75,1
+165,Ventilador Modelo 0165,Hogar,Orion,975.39,1382.93,1
+166,Aspiradora Modelo 0166,Hogar,Nova,1029.77,1515.34,1
+167,Laptop Modelo 0167,Tecnologia,Qori,494.58,775.91,1
+168,Escritorio Modelo 0168,Oficina,AndesTech,1180.58,1866.28,1
+169,Monitor Modelo 0169,Tecnologia,Pacific,1742.23,2141.22,1
+170,Aspiradora Modelo 0170,Hogar,Pacific,527.38,655.95,1
+171,Audifonos Modelo 0171,Tecnologia,Nova,28.69,43.4,1
+172,Cargador Modelo 0172,Accesorios,AndesTech,962.99,1266.7,1
+173,Funda Modelo 0173,Accesorios,AndesTech,642.29,1035.96,1
+174,Monitor Modelo 0174,Tecnologia,Kallpa,1634.72,2215.07,1
+175,Cable USB Modelo 0175,Accesorios,Inti,1213.66,1413.11,1
+176,Lampara Modelo 0176,Hogar,AndesTech,1036.77,1639.23,1
+177,Monitor Modelo 0177,Tecnologia,Inti,670.28,935.86,1
+178,Funda Modelo 0178,Accesorios,AndesTech,1695.72,2192.2,1
+179,Silla Modelo 0179,Oficina,Qori,463.89,636.62,1
+180,Lampara Modelo 0180,Hogar,Nova,891.69,1353.8,1
+181,Cafetera Modelo 0181,Hogar,Orion,911.46,1400.84,1
+182,Audifonos Modelo 0182,Tecnologia,Inti,179.5,280.43,1
+183,Cafetera Modelo 0183,Hogar,Pacific,835.13,1000.09,1
+184,Lampara Modelo 0184,Hogar,Nova,1121.99,1805.11,1
+185,Aspiradora Modelo 0185,Hogar,Pacific,1034.56,1615.88,1
+186,Funda Modelo 0186,Accesorios,Orion,410.0,651.22,0
+187,Funda Modelo 0187,Accesorios,Pacific,,1697.71,1
+188,Hub USB Modelo 0188,Accesorios,Kallpa,1373.72,1917.2,1
+189,Adaptador Modelo 0189,Accesorios,AndesTech,1104.27,1589.6,1
+190,Cable USB Modelo 0190,Accesorios,Qori,1623.14,2197.99,1
+191,Silla Modelo 0191,Oficina,Pacific,1628.29,2217.68,1
+192,Cargador Modelo 0192,Accesorios,Kallpa,860.19,1194.33,1
+193,Teclado Modelo 0193,Tecnologia,Orion,319.2,454.88,1
+194,Tinta Modelo 0194,Oficina,Qori,1128.87,1725.57,1
+195,Funda Modelo 0195,Accesorios,Pacific,176.89,259.8,1
+196,Tinta Modelo 0196,Oficina,Pacific,1643.74,2345.96,1
+197,Archivador Modelo 0197,Oficina,Nova,1508.2,1952.79,1
+198,Adaptador Modelo 0198,Accesorios,Nova,54.29,71.64,1
+199,Impresora Modelo 0199,Tecnologia,Nova,184.78,294.26,1
+200,Aspiradora Modelo 0200,Hogar,Pacific,835.05,1172.89,1
+201,Adaptador Modelo 0201,Accesorios,Orion,1630.05,1847.13,1
+202,Archivador Modelo 0202,Oficina,Inti,1150.88,1813.16,1
+203,Lampara Modelo 0203,Hogar,Pacific,1725.74,2766.97,1
+204,Ventilador Modelo 0204,Hogar,Inti,811.85,1269.87,1
+205,Audifonos Modelo 0205,Tecnologia,Nova,374.55,522.25,1
+206,Adaptador Modelo 0206,Accesorios,Nova,1434.1,2240.99,1
+207,Funda Modelo 0207,Accesorios,Inti,1193.24,1690.14,1
+208,Cable USB Modelo 0208,Accesorios,Kallpa,388.17,493.4,1
+209,Cafetera Modelo 0209,Hogar,AndesTech,743.88,897.1,1
+210,Aspiradora Modelo 0210,Hogar,Nova,1124.19,1683.83,1
+211,Hub USB Modelo 0211,Accesorios,Kallpa,931.88,1329.39,1
+212,Lampara Modelo 0212,Hogar,Orion,82.04,108.83,1
+213,Cable USB Modelo 0213,Accesorios,Nova,1668.66,2169.28,1
+214,Tinta Modelo 0214,Oficina,Nova,1080.26,1287.63,1
+215,Monitor Modelo 0215,Tecnologia,Inti,384.39,445.39,1
+216,Mouse Modelo 0216,Tecnologia,Pacific,948.7,1420.48,1
+217,Cafetera Modelo 0217,Hogar,Inti,1325.95,1854.97,1
+218,Lampara Modelo 0218,Hogar,Kallpa,1284.99,1499.52,1
+219,Silla Modelo 0219,Oficina,Pacific,1380.77,1903.28,1
+220,Mouse Modelo 0220,Tecnologia,AndesTech,189.19,308.05,1
+221,Escritorio Modelo 0221,Oficina,AndesTech,918.12,1333.01,1
+222,Cargador Modelo 0222,Accesorios,AndesTech,1555.5,2546.82,1
+223,Adaptador Modelo 0223,Accesorios,Kallpa,34.83,48.71,1
+224,Cargador Modelo 0224,Accesorios,Inti,1647.38,2451.11,1
+225,Cable USB Modelo 0225,Accesorios,Nova,298.99,487.97,1
+226,Adaptador Modelo 0226,Accesorios,Inti,1019.8,1485.91,1
+227,Cargador Modelo 0227,Accesorios,Qori,541.84,865.4,1
+228,Ventilador Modelo 0228,Hogar,Orion,364.75,441.58,1
+229,Adaptador Modelo 0229,Accesorios,Nova,756.08,1226.82,1
+230,Hub USB Modelo 0230,Accesorios,Pacific,446.04,605.57,1
+231,Cable USB Modelo 0231,Accesorios,Pacific,1148.53,1420.2,1
+232,Adaptador Modelo 0232,Accesorios,AndesTech,267.39,306.65,1
+233,Silla Modelo 0233,Oficina,AndesTech,1428.5,1979.53,1
+234,Mouse Modelo 0234,Tecnologia,Kallpa,515.51,687.46,1
+235,Aspiradora Modelo 0235,Hogar,Pacific,1529.81,1929.65,1
+236,Licuadora Modelo 0236,Hogar,Kallpa,1031.46,1209.84,1
+237,Archivador Modelo 0237,Oficina,Pacific,968.13,1136.64,1
+238,Cable USB Modelo 0238,Accesorios,AndesTech,1328.32,1508.27,1
+239,Papel Modelo 0239,Oficina,Nova,1643.58,2709.41,1
+240,Aspiradora Modelo 0240,Hogar,Kallpa,1581.98,2324.77,1
+241,Laptop Modelo 0241,Tecnologia,AndesTech,19.52,23.83,1
+242,Hub USB Modelo 0242,Accesorios,AndesTech,860.63,1412.2,1
+243,Mouse Modelo 0243,Tecnologia,Kallpa,1223.1,1767.66,1
+244,Escritorio Modelo 0244,Oficina,Orion,1079.12,1604.54,0
+245,Impresora Modelo 0245,Tecnologia,Orion,478.57,644.93,1
+246,Cargador Modelo 0246,Accesorios,Nova,367.53,545.58,1
+247,Audifonos Modelo 0247,Tecnologia,Pacific,1455.37,2328.99,1
+248,Tinta Modelo 0248,Oficina,AndesTech,343.82,420.41,1
+249,Lampara Modelo 0249,Hogar,Inti,1403.27,1798.42,1
+250,Archivador Modelo 0250,Oficina,Nova,1148.89,1659.99,1
+251,Licuadora Modelo 0251,Hogar,Pacific,185.56,239.92,1
+252,Ventilador Modelo 0252,Hogar,Orion,1307.37,1638.89,1
+253,Archivador Modelo 0253,Oficina,Qori,1522.0,2052.06,1
+254,Licuadora Modelo 0254,Hogar,Qori,535.46,613.08,1
+255,Escritorio Modelo 0255,Oficina,Inti,685.18,817.64,1
+256,Aspiradora Modelo 0256,Hogar,Kallpa,292.61,428.38,1
+257,Funda Modelo 0257,Accesorios,Qori,960.59,1397.48,1
+258,Archivador Modelo 0258,Oficina,Inti,1128.28,1679.74,0
+259,Silla Modelo 0259,Oficina,Orion,1693.46,2562.15,0
+260,Tinta Modelo 0260,Oficina,Nova,253.59,324.77,1
+261,Cafetera Modelo 0261,Hogar,Inti,1131.58,1415.85,0
+262,Ventilador Modelo 0262,Hogar,Inti,106.24,153.91,1
+263,Lampara Modelo 0263,Hogar,AndesTech,1387.64,1972.41,1
+264,Monitor Modelo 0264,Tecnologia,Inti,1154.82,1323.41,1
+265,Funda Modelo 0265,Accesorios,Orion,1012.13,1465.1,1
+266,Laptop Modelo 0266,Tecnologia,Qori,1284.01,1859.03,1
+267,Cargador Modelo 0267,Accesorios,Inti,883.56,1043.68,1
+268,Funda Modelo 0268,Accesorios,Pacific,1719.26,2308.66,1
+269,Lampara Modelo 0269,Hogar,Inti,974.91,1155.67,1
+270,Cable USB Modelo 0270,Accesorios,AndesTech,1036.24,1220.63,1
+271,Monitor Modelo 0271,Tecnologia,Orion,147.95,225.78,1
+272,Audifonos Modelo 0272,Tecnologia,AndesTech,1521.23,2214.98,1
+273,Monitor Modelo 0273,Tecnologia,Kallpa,1252.4,1420.88,1
+274,Laptop Modelo 0274,Tecnologia,Pacific,442.3,552.28,1
+275,Silla Modelo 0275,Oficina,Orion,967.3,1515.75,1
+276,Cargador Modelo 0276,Accesorios,Inti,403.4,549.02,1
+277,Lampara Modelo 0277,Hogar,Qori,1280.1,1651.44,1
+278,Aspiradora Modelo 0278,Hogar,Orion,213.08,311.76,1
+279,Hub USB Modelo 0279,Accesorios,Inti,789.55,1093.01,1
+280,Cable USB Modelo 0280,Accesorios,Qori,134.39,152.66,1
+281,Lampara Modelo 0281,Hogar,Qori,1289.0,1684.78,1
+282,Escritorio Modelo 0282,Oficina,Nova,983.09,1279.96,1
+283,Impresora Modelo 0283,Tecnologia,Qori,1661.63,2291.09,1
+284,Ventilador Modelo 0284,Hogar,Nova,1264.76,1445.09,1
+285,Mouse Modelo 0285,Tecnologia,Kallpa,875.99,1138.29,1
+286,Cafetera Modelo 0286,Hogar,Pacific,562.1,866.54,1
+287,Escritorio Modelo 0287,Oficina,Nova,1040.42,1276.24,1
+288,Aspiradora Modelo 0288,Hogar,Kallpa,1346.68,1627.06,1
+289,Archivador Modelo 0289,Oficina,Nova,310.86,380.85,1
+290,Teclado Modelo 0290,Tecnologia,Qori,1488.8,1772.26,1
+291,Teclado Modelo 0291,Tecnologia,Inti,1198.35,1647.11,1
+292,Silla Modelo 0292,Oficina,Qori,573.92,941.77,1
+293,Licuadora Modelo 0293,Hogar,Qori,1787.31,2677.0,1
+294,Escritorio Modelo 0294,Oficina,Orion,1798.8,2670.77,1
+295,Impresora Modelo 0295,Tecnologia,Orion,1591.23,1799.24,1
+296,Papel Modelo 0296,Oficina,Nova,1166.87,1653.81,1
+297,Cable USB Modelo 0297,Accesorios,Nova,223.13,340.65,1
+298,Silla Modelo 0298,Oficina,AndesTech,1318.67,1566.99,1
+299,Cable USB Modelo 0299,Accesorios,AndesTech,1607.23,2304.43,1
+300,Lampara Modelo 0300,Hogar,Qori,842.15,1112.09,1
+301,Papel Modelo 0301,Oficina,Orion,731.33,1040.21,1
+302,Aspiradora Modelo 0302,Hogar,Pacific,1510.91,2370.96,1
+303,Archivador Modelo 0303,Oficina,Kallpa,1290.58,1468.07,1
+304,Silla Modelo 0304,Oficina,Pacific,808.79,1317.45,1
+305,Aspiradora Modelo 0305,Hogar,Inti,1073.72,1267.03,1
+306,Monitor Modelo 0306,Tecnologia,Kallpa,649.68,1006.68,1
+307,Monitor Modelo 0307,Tecnologia,AndesTech,1661.45,2072.97,0
+308,Ventilador Modelo 0308,Hogar,Kallpa,927.31,1200.43,1
+309,Ventilador Modelo 0309,Hogar,Orion,1183.97,1337.22,1
+310,Cargador Modelo 0310,Accesorios,Kallpa,670.93,948.01,1
+311,Archivador Modelo 0311,Oficina,Pacific,387.81,565.0,1
+312,Hub USB Modelo 0312,Accesorios,Nova,644.04,967.1,1
+313,Laptop Modelo 0313,Tecnologia,Nova,1209.66,1679.01,1
+314,Cafetera Modelo 0314,Hogar,Nova,1155.53,1671.72,1
+315,Papel Modelo 0315,Oficina,Pacific,1272.97,1611.43,1
+316,Papel Modelo 0316,Oficina,Kallpa,206.95,235.57,1
+317,Funda Modelo 0317,Accesorios,Orion,663.17,1006.15,1
+318,Adaptador Modelo 0318,Accesorios,Orion,764.18,1204.11,1
+319,Teclado Modelo 0319,Tecnologia,Orion,936.85,1209.08,1
+320,Mouse Modelo 0320,Tecnologia,Pacific,1066.86,1416.82,1
+321,Lampara Modelo 0321,Hogar,Qori,483.97,615.03,1
+322,Cable USB Modelo 0322,Accesorios,Pacific,359.46,498.43,1
+323,Tinta Modelo 0323,Oficina,Qori,628.6,842.05,1
+324,Cable USB Modelo 0324,Accesorios,Pacific,186.5,288.9,1
+325,Funda Modelo 0325,Accesorios,Nova,1210.38,1682.14,1
+326,Teclado Modelo 0326,Tecnologia,Kallpa,257.13,364.29,1
+327,Hub USB Modelo 0327,Accesorios,AndesTech,457.17,673.79,1
+328,Funda Modelo 0328,Accesorios,Kallpa,1355.16,1540.71,1
+329,Aspiradora Modelo 0329,Hogar,Qori,861.04,1083.08,1
+330,Tinta Modelo 0330,Oficina,Orion,659.11,1033.55,1
+331,Silla Modelo 0331,Oficina,Pacific,5.1,6.39,1
+332,Adaptador Modelo 0332,Accesorios,Nova,909.05,1040.89,1
+333,Ventilador Modelo 0333,Hogar,Orion,1552.9,2330.22,1
+334,Hub USB Modelo 0334,Accesorios,AndesTech,1795.45,2720.54,0
+335,Tinta Modelo 0335,Oficina,Orion,1054.98,1688.71,1
+336,Archivador Modelo 0336,Oficina,Orion,705.71,942.47,1
+337,Cable USB Modelo 0337,Accesorios,Orion,713.46,976.37,1
+338,Mouse Modelo 0338,Tecnologia,Orion,1051.39,1440.57,1
+339,Impresora Modelo 0339,Tecnologia,AndesTech,1383.25,1578.04,1
+340,Papel Modelo 0340,Oficina,Pacific,1759.01,2283.17,1
+341,Aspiradora Modelo 0341,Hogar,Kallpa,1618.17,2473.01,1
+342,Archivador Modelo 0342,Oficina,Pacific,1573.45,2475.62,1
+343,Cargador Modelo 0343,Accesorios,Kallpa,1596.35,2499.95,1
+344,Impresora Modelo 0344,Tecnologia,AndesTech,58.28,83.48,1
+345,Cafetera Modelo 0345,Hogar,Nova,220.5,361.38,1
+346,Cargador Modelo 0346, tecnologia ,Qori,284.01,376.28,1
+347,Papel Modelo 0347,Oficina,Inti,789.94,994.33,1
+348,Funda Modelo 0348,Accesorios,Kallpa,117.81,173.62,1
+349,Cafetera Modelo 0349,Hogar,Kallpa,1345.64,2218.04,1
+350,Silla Modelo 0350,Oficina,Inti,1640.92,2332.38,1
+351,Licuadora Modelo 0351,Hogar,Kallpa,590.33,818.18,1
+352,Licuadora Modelo 0352,Hogar,Nova,330.68,471.52,1
+353,Cargador Modelo 0353,Accesorios,Pacific,1615.18,2380.15,1
+354,Silla Modelo 0354,Oficina,Qori,893.95,1123.04,1
+355,Ventilador Modelo 0355,Hogar,Kallpa,590.6,771.65,1
+356,Ventilador Modelo 0356,Hogar,Pacific,309.14,427.91,1
+357,Silla Modelo 0357,Oficina,Pacific,1455.52,2348.21,1
+358,Cable USB Modelo 0358,Accesorios,Nova,456.85,551.69,1
+359,Silla Modelo 0359,Oficina,Qori,8.33,11.31,1
+360,Ventilador Modelo 0360,Hogar,Inti,1455.96,1877.23,1
+361,Ventilador Modelo 0361,Hogar,Inti,805.05,1024.57,1
+362,Papel Modelo 0362,Oficina,Orion,246.32,370.47,1
+363,Cargador Modelo 0363,Accesorios,Pacific,1430.45,2111.69,1
+364,Archivador Modelo 0364,Oficina,Nova,538.27,712.89,1
+365,Licuadora Modelo 0365,Hogar,Inti,579.43,712.94,1
+366,Licuadora Modelo 0366,Hogar,Nova,781.09,885.41,1
+367,Papel Modelo 0367,Oficina,Qori,939.34,1200.55,1
+368,Hub USB Modelo 0368,Accesorios,Pacific,1750.28,2651.7,1
+369,Archivador Modelo 0369,Oficina,Pacific,393.03,446.46,1
+370,Cafetera Modelo 0370,Hogar,Kallpa,908.37,1029.32,1
+371,Monitor Modelo 0371,Tecnologia,Kallpa,882.56,1441.48,1
+372,Cafetera Modelo 0372,Hogar,AndesTech,708.69,1034.61,1
+373,Mouse Modelo 0373,Tecnologia,Qori,1574.73,1793.38,1
+374,Teclado Modelo 0374,Tecnologia,Nova,1516.92,2117.71,0
+375,Funda Modelo 0375,Accesorios,Kallpa,42.17,54.83,1
+376,Archivador Modelo 0376,Oficina,Nova,1020.32,1449.31,0
+377,Audifonos Modelo 0377,Tecnologia,Inti,91.14,120.28,1
+378,Ventilador Modelo 0378,Hogar,Pacific,1629.28,2207.05,1
+379,Impresora Modelo 0379,Tecnologia,Nova,1136.74,1831.54,1
+380,Hub USB Modelo 0380,Accesorios,Nova,842.15,1064.14,1
+381,Licuadora Modelo 0381,Hogar,Orion,1312.2,1633.57,1
+382,Silla Modelo 0382,Oficina,Qori,1692.11,2537.97,1
+383,Aspiradora Modelo 0383,Hogar,Kallpa,1437.46,1824.64,1
+384,Audifonos Modelo 0384,Tecnologia,Kallpa,56.85,93.12,1
+385,Monitor Modelo 0385,Tecnologia,Inti,587.03,844.91,1
+386,Aspiradora Modelo 0386,Hogar,Pacific,1695.5,2225.42,1
+387,Escritorio Modelo 0387,Oficina,Nova,1387.84,1834.72,1
+388,Escritorio Modelo 0388,Oficina,Qori,1629.16,1849.43,1
+389,Escritorio Modelo 0389,Oficina,Orion,955.17,1378.66,1
+390,Silla Modelo 0390,Oficina,Orion,1348.75,2216.18,1
+391,Escritorio Modelo 0391,Oficina,Qori,1526.91,2437.4,1
+392,Archivador Modelo 0392,Oficina,Nova,643.55,1026.59,1
+393,Lampara Modelo 0393,Hogar,Kallpa,1009.93,1251.11,1
+394,Laptop Modelo 0394,Tecnologia,Orion,1235.49,1562.39,1
+395,Audifonos Modelo 0395,Tecnologia,Qori,413.01,494.08,1
+396,Mouse Modelo 0396,Tecnologia,Pacific,180.34,286.13,1
+397,Silla Modelo 0397,Oficina,AndesTech,1618.32,2515.64,1
+398,Audifonos Modelo 0398,Tecnologia,Orion,575.91,733.97,1
+399,Ventilador Modelo 0399,Hogar,AndesTech,505.64,653.67,1
+400,Aspiradora Modelo 0400,Hogar,Pacific,1502.83,2440.44,1
+401,Monitor Modelo 0401,Tecnologia,Nova,1684.19,2495.01,1
+402,Funda Modelo 0402,Accesorios,AndesTech,1483.33,1917.98,1
+403,Lampara Modelo 0403,Hogar,Inti,1524.91,1751.92,1
+404,Cable USB Modelo 0404,Accesorios,AndesTech,1705.45,2451.11,1
+405,Audifonos Modelo 0405,Tecnologia,Inti,1614.97,2292.8,1
+406,Ventilador Modelo 0406,Hogar,Qori,1377.56,2124.98,1
+407,Silla Modelo 0407,Oficina,Inti,890.45,1250.43,1
+408,Audifonos Modelo 0408,Tecnologia,Inti,1567.18,2509.2,1
+409,Funda Modelo 0409,Accesorios,Kallpa,1175.5,1875.18,1
+410,Impresora Modelo 0410,Tecnologia,Orion,665.05,765.28,1
+411,Aspiradora Modelo 0411,Hogar,Pacific,507.89,699.15,1
+412,Cable USB Modelo 0412,Accesorios,Orion,602.96,883.75,1
+413,Licuadora Modelo 0413,Hogar,Inti,124.72,148.42,1
+414,Audifonos Modelo 0414,Tecnologia,Nova,504.47,790.56,1
+415,Archivador Modelo 0415,Oficina,Qori,1080.36,1411.39,1
+416,Adaptador Modelo 0416,Accesorios,Nova,517.64,725.78,1
+417,Hub USB Modelo 0417,Accesorios,AndesTech,992.15,1220.81,1
+418,Adaptador Modelo 0418,Accesorios,Kallpa,1274.37,1726.16,1
+419,Mouse Modelo 0419,Tecnologia,Inti,456.55,549.5,1
+420,Escritorio Modelo 0420,Oficina,Nova,1555.66,1830.86,1
+421,Adaptador Modelo 0421,Accesorios,Kallpa,324.64,530.27,1
+422,Mouse Modelo 0422,Tecnologia,Qori,1469.02,1830.8,1
+423,Archivador Modelo 0423,Oficina,Kallpa,297.24,420.0,1
+424,Archivador Modelo 0424,Oficina,Kallpa,865.58,1032.16,1
+425,Funda Modelo 0425,Accesorios,AndesTech,38.53,59.03,1
+426,Hub USB Modelo 0426,Accesorios,Pacific,701.52,1130.3,1
+427,Aspiradora Modelo 0427,Hogar,Pacific,1233.23,2012.56,1
+428,Hub USB Modelo 0428,Accesorios,Inti,1593.21,2110.46,1
+429,Monitor Modelo 0429,Tecnologia,Orion,326.87,419.44,1
+430,Escritorio Modelo 0430,Oficina,Qori,1743.86,2389.79,1
+431,Monitor Modelo 0431,Tecnologia,Inti,1470.96,1878.65,1
+432,Licuadora Modelo 0432,Hogar,Orion,1694.05,2588.19,1
+433,Licuadora Modelo 0433,Hogar,Nova,543.07,809.86,1
+434,Cafetera Modelo 0434,Hogar,Pacific,247.54,367.92,1
+435,Adaptador Modelo 0435,Accesorios,Pacific,1189.61,1486.17,1
+436,Escritorio Modelo 0436,Oficina,Inti,129.91,194.15,1
+437,Cargador Modelo 0437,Accesorios,Nova,1639.96,2588.05,1
+438,Mouse Modelo 0438,Tecnologia,Inti,761.83,1023.94,1
+439,Cargador Modelo 0439,Accesorios,AndesTech,1365.09,2230.01,1
+440,Impresora Modelo 0440,Tecnologia,Nova,1440.41,1903.87,1
+441,Ventilador Modelo 0441,Hogar,AndesTech,229.89,346.82,1
+442,Tinta Modelo 0442,Oficina,Pacific,1361.35,1959.71,1
+443,Mouse Modelo 0443,Tecnologia,Kallpa,829.96,1169.27,0
+444,Monitor Modelo 0444,Tecnologia,Inti,837.49,1250.9,1
+445,Licuadora Modelo 0445,Hogar,Pacific,795.98,1149.01,1
+446,Aspiradora Modelo 0446,Hogar,Nova,146.77,171.15,1
+447,Funda Modelo 0447,Accesorios,Pacific,597.39,900.07,1
+448,Aspiradora Modelo 0448,Hogar,Inti,737.99,928.78,1
+449,Audifonos Modelo 0449,Tecnologia,AndesTech,109.23,172.45,1
+450,Silla Modelo 0450,Oficina,Pacific,1179.73,1421.54,0
+451,Cafetera Modelo 0451,Hogar,Pacific,1293.07,1550.45,1
+452,Impresora Modelo 0452,Tecnologia,Orion,407.45,608.78,1
+453,Lampara Modelo 0453,Hogar,Nova,261.31,335.74,1
+454,Cargador Modelo 0454,Accesorios,Orion,1610.41,2092.89,1
+455,Ventilador Modelo 0455,Hogar,Nova,965.08,1144.87,1
+456,Cargador Modelo 0456,Accesorios,Qori,1263.85,1926.59,1
+457,Adaptador Modelo 0457,Accesorios,AndesTech,205.79,318.59,1
+458,Tinta Modelo 0458,Oficina,Orion,40.46,46.33,1
+459,Ventilador Modelo 0459,Hogar,Orion,1309.9,1979.91,1
+460,Ventilador Modelo 0460,Hogar,Inti,552.59,858.97,1
+461,Ventilador Modelo 0461,Hogar,Pacific,1532.89,1953.58,1
+462,Teclado Modelo 0462,Tecnologia,Orion,299.18,483.68,1
+463,Adaptador Modelo 0463,Accesorios,Inti,113.47,162.76,1
+464,Teclado Modelo 0464,Tecnologia,AndesTech,35.9,58.88,1
+465,Monitor Modelo 0465,Tecnologia,Kallpa,1479.36,1826.95,1
+466,Funda Modelo 0466,Accesorios,Inti,1060.54,1539.78,1
+467,Silla Modelo 0467,Oficina,Kallpa,694.41,980.48,1
+468,Mouse Modelo 0468,Tecnologia,Qori,715.76,827.38,1
+469,Monitor Modelo 0469,Tecnologia,Qori,388.71,508.96,0
+470,Aspiradora Modelo 0470,Hogar,Pacific,238.59,334.28,1
+471,Escritorio Modelo 0471,Oficina,Nova,101.75,137.11,1
+472,Cable USB Modelo 0472,Accesorios,Qori,746.33,867.73,1
+473,Cafetera Modelo 0473,Hogar,Pacific,1147.48,1350.63,1
+474,Monitor Modelo 0474,Tecnologia,Qori,1600.99,2376.84,1
+475,Silla Modelo 0475,Oficina,Qori,1299.27,1755.59,1
+476,Silla Modelo 0476,Oficina,Pacific,1666.87,2266.19,1
+477,Funda Modelo 0477,Accesorios,Inti,1247.45,1708.05,1
+478,Lampara Modelo 0478,Hogar,Orion,185.23,253.03,1
+479,Lampara Modelo 0479,Hogar,Nova,1053.87,1587.87,1
+480,Cable USB Modelo 0480,Accesorios,Inti,1621.98,2030.55,1
+481,Monitor Modelo 0481,Tecnologia,Kallpa,535.62,762.01,1
+482,Silla Modelo 0482,Oficina,Qori,303.84,428.36,1
+483,Audifonos Modelo 0483,Tecnologia,Nova,1179.12,1795.07,1
+484,Aspiradora Modelo 0484,Hogar,Kallpa,1766.38,2733.98,1
+485,Aspiradora Modelo 0485,Hogar,Qori,295.26,340.33,1
+486,Mouse Modelo 0486,Tecnologia,Kallpa,1744.19,2164.02,1
+487,Cargador Modelo 0487,Accesorios,Qori,654.85,991.11,1
+488,Funda Modelo 0488,Accesorios,Pacific,1400.61,1820.09,1
+489,Aspiradora Modelo 0489,Hogar,Kallpa,969.91,1149.99,1
+490,Cable USB Modelo 0490,Accesorios,Nova,755.51,1044.0,1
+491,Papel Modelo 0491,Oficina,Kallpa,1313.63,1689.66,1
+492,Papel Modelo 0492,Oficina,Nova,1600.15,2637.75,1
+493,Monitor Modelo 0493,Tecnologia,Qori,949.78,1172.19,1
+494,Laptop Modelo 0494,Tecnologia,Inti,1598.34,2420.87,1
+495,Cafetera Modelo 0495,Hogar,AndesTech,189.7,230.49,1
+496,Escritorio Modelo 0496,Oficina,Inti,573.01,943.3,1
+497,Monitor Modelo 0497,Tecnologia,AndesTech,606.73,707.42,1
+498,Papel Modelo 0498,Oficina,Nova,297.27,354.0,1
+499,Cable USB Modelo 0499,Accesorios,Pacific,192.4,263.76,1
+500,Escritorio Modelo 0500,Oficina,Inti,276.83,454.0,1
+501,Cafetera Modelo 0501,Hogar,Qori,1075.42,1463.48,1
+502,Tinta Modelo 0502,Oficina,Inti,551.6,719.17,1
+503,Hub USB Modelo 0503,Accesorios,Orion,182.79,221.39,1
+504,Mouse Modelo 0504,Tecnologia,Pacific,169.05,259.54,1
+505,Funda Modelo 0505,Accesorios,Qori,919.58,1332.33,1
+506,Cargador Modelo 0506,Accesorios,Nova,196.53,270.72,1
+507,Laptop Modelo 0507,Tecnologia,Nova,851.28,1119.65,0
+508,Cable USB Modelo 0508,Accesorios,AndesTech,753.76,999.73,1
+509,Licuadora Modelo 0509,Hogar,Orion,1704.06,2746.73,1
+510,Funda Modelo 0510,Accesorios,Pacific,1268.27,1556.5,1
+511,Impresora Modelo 0511,Tecnologia,AndesTech,1386.65,1938.0,1
+512,Licuadora Modelo 0512,Hogar,Orion,1299.25,1503.36,1
+513,Laptop Modelo 0513,Tecnologia,Orion,1505.46,2232.3,1
+514,Cafetera Modelo 0514,Hogar,Nova,506.38,771.81,1
+515,Mouse Modelo 0515,Tecnologia,Nova,1203.98,1895.66,1
+516,Licuadora Modelo 0516,Hogar,AndesTech,1115.39,1297.39,1
+517,Cable USB Modelo 0517,Accesorios,Orion,1248.01,1651.58,1
+518,Monitor Modelo 0518,Tecnologia,Nova,407.59,496.1,1
+519,Audifonos Modelo 0519,Tecnologia,Inti,1654.12,2617.16,1
+520,Cable USB Modelo 0520,Accesorios,Nova,1564.2,2574.57,1
+521,Archivador Modelo 0521,Oficina,Qori,450.52,624.08,1
+522,Silla Modelo 0522,Oficina,Pacific,1740.64,2082.62,1
+523,Laptop Modelo 0523,Tecnologia,Kallpa,895.68,1174.01,1
+524,Laptop Modelo 0524,Tecnologia,Nova,1295.52,1619.12,1
+525,Adaptador Modelo 0525,Accesorios,Nova,164.28,193.23,1
+526,Audifonos Modelo 0526,Tecnologia,Inti,138.33,174.99,1
+527,Hub USB Modelo 0527,Accesorios,Pacific,1538.79,2036.15,1
+528,Archivador Modelo 0528,Oficina,Pacific,77.1,112.99,1
+529,Aspiradora Modelo 0529,Hogar,Pacific,1409.42,1847.73,1
+530,Cargador Modelo 0530,Accesorios,Inti,1391.84,2089.88,1
+531,Silla Modelo 0531,Oficina,Orion,713.24,1084.03,1
+532,Adaptador Modelo 0532,Accesorios,Pacific,370.78,419.69,1
+533,Impresora Modelo 0533,Tecnologia,Orion,75.39,102.96,1
+534,Hub USB Modelo 0534,Accesorios,Pacific,1050.61,1458.44,1
+535,Hub USB Modelo 0535,Accesorios,Kallpa,1524.76,2055.54,1
+536,Audifonos Modelo 0536,Tecnologia,Orion,1790.15,2471.49,1
+537,Impresora Modelo 0537,Tecnologia,Nova,1738.4,2745.92,1
+538,Mouse Modelo 0538,Tecnologia,Nova,1384.16,2226.75,0
+539,Escritorio Modelo 0539,Oficina,Qori,480.97,575.06,1
+540,Tinta Modelo 0540,Oficina,Inti,1347.3,1939.34,1
+541,Escritorio Modelo 0541,Oficina,Nova,1613.48,2232.99,1
+542,Mouse Modelo 0542,Tecnologia,Nova,1634.16,2299.59,1
+543,Monitor Modelo 0543,Tecnologia,Inti,595.49,701.14,0
+544,Aspiradora Modelo 0544,Hogar,Qori,1202.61,1847.39,1
+545,Audifonos Modelo 0545,Tecnologia,Nova,1573.33,2545.86,1
+546,Hub USB Modelo 0546,Accesorios,Qori,742.74,920.74,1
+547,Cargador Modelo 0547,Accesorios,Inti,190.25,232.94,1
+548,Laptop Modelo 0548,Tecnologia,Orion,945.31,1484.02,1
+549,Escritorio Modelo 0549,Oficina,Nova,738.47,833.96,1
+550,Silla Modelo 0550,Oficina,Nova,763.96,1160.8,1
+551,Ventilador Modelo 0551, tecnologia ,Orion,235.78,278.94,1
+552,Aspiradora Modelo 0552,Hogar,AndesTech,694.61,989.83,1
+553,Archivador Modelo 0553,Oficina,Pacific,531.46,807.13,1
+554,Licuadora Modelo 0554,Hogar,Inti,1577.17,1921.99,1
+555,Funda Modelo 0555,Accesorios,Orion,1597.52,1982.83,1
+556,Tinta Modelo 0556,Oficina,Pacific,1597.1,2546.03,1
+557,Ventilador Modelo 0557,Hogar,Orion,200.13,267.8,1
+558,Cable USB Modelo 0558,Accesorios,Qori,449.67,574.35,1
+559,Audifonos Modelo 0559,Tecnologia,Inti,1356.38,2214.74,1
+560,Cable USB Modelo 0560,Accesorios,Inti,1504.52,1849.15,1
+561,Cafetera Modelo 0561,Hogar,Inti,1276.48,1555.37,1
+562,Adaptador Modelo 0562,Accesorios,Nova,1337.86,2098.63,1
+563,Archivador Modelo 0563,Oficina,Kallpa,1244.75,1441.02,1
+564,Hub USB Modelo 0564,Accesorios,Nova,408.0,663.08,1
+565,Impresora Modelo 0565,Tecnologia,Qori,1354.71,1579.54,1
+566,Cafetera Modelo 0566,Hogar,Pacific,268.59,398.33,1
+567,Licuadora Modelo 0567,Hogar,Kallpa,571.53,814.42,1
+568,Archivador Modelo 0568,Oficina,Inti,263.04,369.06,1
+569,Licuadora Modelo 0569,Hogar,AndesTech,579.45,701.53,1
+570,Teclado Modelo 0570,Tecnologia,Pacific,1517.92,2290.04,1
+571,Impresora Modelo 0571,Tecnologia,AndesTech,1086.88,1701.43,1
+572,Lampara Modelo 0572,Hogar,Nova,80.45,113.09,1
+573,Cable USB Modelo 0573,Accesorios,AndesTech,1777.78,2263.32,1
+574,Lampara Modelo 0574,Hogar,AndesTech,1357.81,1563.23,1
+575,Hub USB Modelo 0575,Accesorios,Inti,854.63,1271.85,1
+576,Mouse Modelo 0576,Tecnologia,Qori,966.63,1316.18,1
+577,Cargador Modelo 0577, tecnologia ,Nova,20.31,26.97,1
+578,Cable USB Modelo 0578,Accesorios,Orion,997.41,1532.03,1
+579,Archivador Modelo 0579,Oficina,Qori,1571.95,2444.27,1
+580,Impresora Modelo 0580,Tecnologia,AndesTech,1247.99,1736.48,1
+581,Mouse Modelo 0581,Tecnologia,Pacific,973.11,1277.46,1
+582,Aspiradora Modelo 0582,Hogar,Pacific,145.41,201.45,1
+583,Tinta Modelo 0583,Oficina,Orion,1226.68,1986.05,1
+584,Cable USB Modelo 0584,Accesorios,Pacific,141.81,230.61,1
+585,Laptop Modelo 0585,Tecnologia,Inti,1383.15,2073.97,1
+586,Teclado Modelo 0586,Tecnologia,Orion,947.23,1292.16,1
+587,Funda Modelo 0587,Accesorios,Kallpa,1307.99,1832.22,1
+588,Funda Modelo 0588,Accesorios,Qori,1518.17,1845.36,1
+589,Cable USB Modelo 0589,Accesorios,Orion,1004.77,1617.18,1
+590,Archivador Modelo 0590,Oficina,Kallpa,144.9,235.73,1
+591,Cargador Modelo 0591,Accesorios,Orion,272.42,419.97,1
+592,Papel Modelo 0592,Oficina,Pacific,625.6,751.45,1
+593,Licuadora Modelo 0593,Hogar,Inti,968.81,1204.08,1
+594,Mouse Modelo 0594,Tecnologia,Nova,593.94,847.25,1
+595,Cargador Modelo 0595,Accesorios,Qori,962.34,1507.49,1
+596,Papel Modelo 0596,Oficina,Qori,627.38,1030.66,1
+597,Funda Modelo 0597,Accesorios,Qori,665.13,795.55,1
+598,Hub USB Modelo 0598,Accesorios,Qori,846.76,1101.85,1
+599,Tinta Modelo 0599,Oficina,AndesTech,1450.84,1823.05,1
+600,Cable USB Modelo 0600,Accesorios,Pacific,351.65,546.89,1
+601,Archivador Modelo 0601,Oficina,Pacific,1467.33,2389.02,1
+602,Audifonos Modelo 0602,Tecnologia,Inti,635.37,1003.66,1
+603,Funda Modelo 0603,Accesorios,Kallpa,991.11,1346.18,1
+604,Archivador Modelo 0604,Oficina,Pacific,1555.62,2122.89,1
+605,Tinta Modelo 0605,Oficina,Nova,1348.68,1681.41,1
+606,Monitor Modelo 0606,Tecnologia,Qori,1351.66,1554.06,1
+607,Papel Modelo 0607,Oficina,Inti,1173.8,1696.94,1
+608,Adaptador Modelo 0608,Accesorios,AndesTech,463.85,655.37,1
+609,Funda Modelo 0609,Accesorios,Orion,1192.57,1943.7,1
+610,Audifonos Modelo 0610,Tecnologia,Nova,1497.07,1882.39,1
+611,Mouse Modelo 0611,Tecnologia,Qori,1361.68,1624.06,1
+612,Mouse Modelo 0612,Tecnologia,Inti,1279.61,1996.97,1
+613,Hub USB Modelo 0613,Accesorios,Nova,1694.34,2741.45,1
+614,Escritorio Modelo 0614,Oficina,Qori,236.7,310.86,1
+615,Funda Modelo 0615,Accesorios,Kallpa,959.62,1194.39,1
+616,Teclado Modelo 0616,Tecnologia,AndesTech,1023.12,1193.27,1
+617,Silla Modelo 0617,Oficina,AndesTech,1752.66,2493.18,1
+618,Licuadora Modelo 0618,Hogar,Pacific,987.11,1498.96,1
+619,Archivador Modelo 0619,Oficina,Pacific,1028.02,1530.32,1
+620,Monitor Modelo 0620,Tecnologia,Qori,1267.16,1572.21,1
+621,Teclado Modelo 0621,Tecnologia,Qori,1797.56,2224.31,1
+622,Audifonos Modelo 0622,Tecnologia,Inti,1117.44,1311.89,1
+623,Laptop Modelo 0623,Tecnologia,Kallpa,1446.93,2379.7,1
+624,Ventilador Modelo 0624,Hogar,AndesTech,161.98,223.62,1
+625,Lampara Modelo 0625,Hogar,Nova,1587.11,2237.71,1
+626,Cable USB Modelo 0626,Accesorios,AndesTech,81.66,131.35,1
+627,Ventilador Modelo 0627,Hogar,Pacific,100.75,143.94,1
+628,Funda Modelo 0628,Accesorios,AndesTech,200.29,226.88,1
+629,Audifonos Modelo 0629,Tecnologia,Kallpa,1546.2,2521.92,1
+630,Licuadora Modelo 0630,Hogar,AndesTech,1110.63,1662.58,1
+631,Archivador Modelo 0631,Oficina,Qori,517.81,801.94,1
+632,Silla Modelo 0632,Oficina,Inti,1280.59,1820.18,1
+633,Laptop Modelo 0633,Tecnologia,Nova,1069.73,1636.3,1
+634,Cafetera Modelo 0634,Hogar,Nova,1682.7,2198.54,1
+635,Teclado Modelo 0635,Tecnologia,AndesTech,921.22,1505.41,1
+636,Mouse Modelo 0636,Tecnologia,Pacific,989.47,1624.4,1
+637,Cable USB Modelo 0637,Accesorios,Nova,1635.43,2493.49,1
+638,Adaptador Modelo 0638,Accesorios,Qori,1212.17,1490.22,1
+639,Cable USB Modelo 0639,Accesorios,Kallpa,1168.49,1601.14,1
+640,Silla Modelo 0640,Oficina,AndesTech,1741.59,2720.42,1
+641,Mouse Modelo 0641,Tecnologia,AndesTech,443.9,502.84,1
+642,Hub USB Modelo 0642,Accesorios,AndesTech,834.36,1276.56,1
+643,Tinta Modelo 0643,Oficina,Pacific,1181.81,1662.7,1
+644,Funda Modelo 0644,Accesorios,AndesTech,781.72,895.43,1
+645,Archivador Modelo 0645,Oficina,Kallpa,1351.69,1575.91,1
+646,Licuadora Modelo 0646,Hogar,Pacific,1221.4,1832.37,1
+647,Cable USB Modelo 0647,Accesorios,Orion,1255.15,1738.22,1
+648,Mouse Modelo 0648,Tecnologia,Kallpa,501.01,803.21,1
+649,Monitor Modelo 0649,Tecnologia,Orion,1658.46,2252.96,1
+650,Monitor Modelo 0650,Tecnologia,Kallpa,524.01,634.97,1
+651,Silla Modelo 0651,Oficina,AndesTech,1319.86,2078.8,1
+652,Archivador Modelo 0652,Oficina,Qori,1272.2,1494.74,1
+653,Tinta Modelo 0653,Oficina,AndesTech,1748.59,2254.36,1
+654,Escritorio Modelo 0654,Oficina,Orion,227.05,324.76,1
+655,Cable USB Modelo 0655,Accesorios,Kallpa,742.76,867.57,0
+656,Mouse Modelo 0656,Tecnologia,Kallpa,1345.01,1813.68,1
+657,Hub USB Modelo 0657,Accesorios,Kallpa,289.94,408.6,0
+658,Licuadora Modelo 0658,Hogar,Nova,1629.04,2100.15,1
+659,Cafetera Modelo 0659,Hogar,Qori,46.45,60.59,1
+660,Hub USB Modelo 0660,Accesorios,Orion,331.94,421.33,0
+661,Cargador Modelo 0661,Accesorios,AndesTech,372.94,467.97,1
+662,Licuadora Modelo 0662,Hogar,Orion,162.77,217.81,1
+663,Monitor Modelo 0663,Tecnologia,Kallpa,68.92,99.09,0
+664,Teclado Modelo 0664,Tecnologia,Orion,1620.62,1889.03,1
+665,Silla Modelo 0665,Oficina,Kallpa,1149.85,1611.63,1
+666,Archivador Modelo 0666,Oficina,Kallpa,1647.23,2204.7,1
+667,Teclado Modelo 0667,Tecnologia,Nova,1612.95,1906.46,1
+668,Monitor Modelo 0668,Tecnologia,Nova,1091.25,1676.73,1
+669,Hub USB Modelo 0669,Accesorios,Pacific,95.51,141.49,1
+670,Aspiradora Modelo 0670,Hogar,Orion,1501.54,2051.51,1
+671,Licuadora Modelo 0671,Hogar,Orion,147.55,194.51,1
+672,Licuadora Modelo 0672,Hogar,Orion,798.44,1226.29,1
+673,Escritorio Modelo 0673,Oficina,Nova,899.85,1425.14,1
+674,Teclado Modelo 0674,Tecnologia,Inti,551.01,798.22,1
+675,Hub USB Modelo 0675,Accesorios,Inti,223.3,333.73,1
+676,Cargador Modelo 0676,Accesorios,AndesTech,1374.19,1655.54,1
+677,Funda Modelo 0677,Accesorios,Kallpa,,1786.88,1
+678,Ventilador Modelo 0678,Hogar,Inti,482.7,717.31,1
+679,Teclado Modelo 0679,Tecnologia,AndesTech,1515.7,2023.07,1
+680,Cable USB Modelo 0680,Accesorios,Nova,1077.97,1564.93,1
+681,Aspiradora Modelo 0681,Hogar,Pacific,837.6,1329.21,1
+682,Funda Modelo 0682,Accesorios,Nova,468.94,722.6,1
+683,Ventilador Modelo 0683,Hogar,Pacific,741.62,898.92,1
+684,Funda Modelo 0684,Accesorios,Inti,596.97,795.68,1
+685,Lampara Modelo 0685,Hogar,Kallpa,1139.83,1342.0,1
+686,Cafetera Modelo 0686,Hogar,Kallpa,43.13,52.2,1
+687,Laptop Modelo 0687,Tecnologia,Nova,20.56,23.21,1
+688,Tinta Modelo 0688,Oficina,Inti,1695.16,2222.35,1
+689,Laptop Modelo 0689,Tecnologia,Kallpa,180.57,239.24,1
+690,Mouse Modelo 0690,Tecnologia,Pacific,1575.94,2538.0,1
+691,Cargador Modelo 0691,Accesorios,Nova,964.24,1359.93,1
+692,Escritorio Modelo 0692,Oficina,AndesTech,1749.31,2052.98,1
+693,Cable USB Modelo 0693,Accesorios,Qori,1178.77,1471.57,1
+694,Hub USB Modelo 0694,Accesorios,Pacific,473.29,668.74,1
+695,Lampara Modelo 0695,Hogar,Nova,288.76,431.61,1
+696,Licuadora Modelo 0696,Hogar,Pacific,144.11,181.96,1
+697,Hub USB Modelo 0697,Accesorios,Nova,1418.78,1706.81,1
+698,Cable USB Modelo 0698,Accesorios,Orion,781.64,1109.18,1
+699,Cafetera Modelo 0699,Hogar,Kallpa,846.69,1305.27,1
+700,Audifonos Modelo 0700,Tecnologia,Qori,763.59,1064.49,1
+701,Impresora Modelo 0701,Tecnologia,Kallpa,37.32,53.89,1
+702,Teclado Modelo 0702,Tecnologia,AndesTech,715.85,846.44,1
+703,Lampara Modelo 0703,Hogar,Kallpa,164.26,244.9,1
+704,Cable USB Modelo 0704,Accesorios,Inti,742.08,902.8,1
+705,Cafetera Modelo 0705,Hogar,Qori,742.33,1125.51,1
+706,Aspiradora Modelo 0706,Hogar,Qori,1761.77,2686.18,1
+707,Hub USB Modelo 0707,Accesorios,Nova,310.22,428.8,1
+708,Audifonos Modelo 0708,Tecnologia,AndesTech,1636.82,2185.32,1
+709,Teclado Modelo 0709,Tecnologia,AndesTech,1738.35,2025.05,1
+710,Aspiradora Modelo 0710,Hogar,Qori,1175.5,1935.33,1
+711,Laptop Modelo 0711,Tecnologia,Inti,1104.73,1741.07,1
+712,Tinta Modelo 0712,Oficina,Kallpa,382.51,506.35,1
+713,Mouse Modelo 0713,Tecnologia,Nova,920.35,1353.27,1
+714,Cargador Modelo 0714,Accesorios,Kallpa,25.34,29.2,1
+715,Silla Modelo 0715,Oficina,Kallpa,721.36,891.46,1
+716,Licuadora Modelo 0716,Hogar,Inti,1715.7,2774.95,1
+717,Cargador Modelo 0717,Accesorios,Kallpa,664.45,760.3,1
+718,Papel Modelo 0718,Oficina,Inti,1258.13,1525.42,1
+719,Silla Modelo 0719,Oficina,Orion,1006.26,1298.96,1
+720,Hub USB Modelo 0720,Accesorios,Inti,958.34,1446.07,1
+721,Ventilador Modelo 0721,Hogar,Pacific,448.18,554.88,1
+722,Cable USB Modelo 0722,Accesorios,Inti,415.65,671.25,1
+723,Aspiradora Modelo 0723, tecnologia ,Pacific,1797.14,2681.65,1
+724,Funda Modelo 0724,Accesorios,Nova,521.9,589.38,1
+725,Laptop Modelo 0725,Tecnologia,Qori,977.66,1374.86,1
+726,Teclado Modelo 0726,Tecnologia,Qori,481.85,552.21,1
+727,Papel Modelo 0727,Oficina,AndesTech,527.99,729.38,1
+728,Laptop Modelo 0728,Tecnologia,Kallpa,358.3,559.31,1
+729,Funda Modelo 0729,Accesorios,Inti,9.89,13.97,1
+730,Escritorio Modelo 0730,Oficina,Pacific,1291.95,1730.4,1
+731,Funda Modelo 0731,Accesorios,Pacific,1391.58,1895.12,1
+732,Cargador Modelo 0732,Accesorios,Pacific,1577.93,2297.73,1
+733,Cargador Modelo 0733,Accesorios,Qori,823.83,1298.21,1
+734,Tinta Modelo 0734,Oficina,Nova,,1426.94,1
+735,Audifonos Modelo 0735,Tecnologia,Qori,1017.34,1407.35,1
+736,Lampara Modelo 0736,Hogar,Qori,1526.51,2334.89,1
+737,Silla Modelo 0737,Oficina,Nova,1471.2,2261.73,1
+738,Cable USB Modelo 0738,Accesorios,Inti,862.45,1397.13,1
+739,Archivador Modelo 0739,Oficina,Qori,1452.93,2165.31,1
+740,Mouse Modelo 0740,Tecnologia,Qori,463.16,556.08,1
+741,Lampara Modelo 0741,Hogar,Qori,527.6,657.54,1
+742,Cafetera Modelo 0742,Hogar,Pacific,898.42,1175.07,1
+743,Lampara Modelo 0743,Hogar,AndesTech,800.54,1065.02,1
+744,Funda Modelo 0744, tecnologia ,Kallpa,1192.06,1800.33,1
+745,Monitor Modelo 0745,Tecnologia,Nova,1267.42,1732.28,1
+746,Monitor Modelo 0746,Tecnologia,Qori,370.26,501.14,1
+747,Silla Modelo 0747,Oficina,Inti,396.64,639.58,1
+748,Ventilador Modelo 0748,Hogar,Orion,371.92,523.39,1
+749,Tinta Modelo 0749,Oficina,Nova,227.25,290.19,1
+750,Adaptador Modelo 0750,Accesorios,Nova,1779.01,2916.6,1
+751,Tinta Modelo 0751,Oficina,AndesTech,44.61,62.07,1
+752,Adaptador Modelo 0752,Accesorios,Inti,1067.05,1739.65,1
+753,Licuadora Modelo 0753,Hogar,Orion,436.74,692.09,1
+754,Laptop Modelo 0754,Tecnologia,Inti,295.76,361.83,1
+755,Cargador Modelo 0755,Accesorios,AndesTech,658.85,883.75,1
+756,Tinta Modelo 0756,Oficina,Inti,962.39,1301.29,1
+757,Laptop Modelo 0757,Tecnologia,Orion,544.17,826.43,1
+758,Silla Modelo 0758,Oficina,Nova,987.23,1528.85,1
+759,Adaptador Modelo 0759,Accesorios,Nova,675.43,1111.16,1
+760,Papel Modelo 0760,Oficina,Kallpa,13.13,21.56,1
+761,Hub USB Modelo 0761,Accesorios,Inti,1116.91,1576.61,1
+762,Cable USB Modelo 0762,Accesorios,AndesTech,1264.5,2064.7,1
+763,Cargador Modelo 0763,Accesorios,Inti,1659.3,2124.29,1
+764,Escritorio Modelo 0764,Oficina,Inti,1153.36,1302.92,1
+765,Ventilador Modelo 0765,Hogar,Orion,583.45,718.89,1
+766,Cable USB Modelo 0766,Accesorios,Inti,1340.69,1734.77,1
+767,Teclado Modelo 0767,Tecnologia,Pacific,1320.49,1642.7,1
+768,Licuadora Modelo 0768,Hogar,AndesTech,944.94,1484.41,1
+769,Hub USB Modelo 0769,Accesorios,Kallpa,432.91,675.81,1
+770,Cafetera Modelo 0770,Hogar,AndesTech,732.01,1045.62,1
+771,Licuadora Modelo 0771,Hogar,Inti,1786.23,2433.41,1
+772,Papel Modelo 0772,Oficina,Orion,1614.4,1937.13,1
+773,Cargador Modelo 0773,Accesorios,Pacific,469.1,738.54,1
+774,Silla Modelo 0774,Oficina,Kallpa,1225.59,1806.79,1
+775,Audifonos Modelo 0775,Tecnologia,Qori,1489.97,2076.95,1
+776,Laptop Modelo 0776,Tecnologia,Inti,505.25,731.37,1
+777,Tinta Modelo 0777,Oficina,AndesTech,1439.38,2295.31,1
+778,Funda Modelo 0778,Accesorios,Qori,1383.63,2236.21,1
+779,Lampara Modelo 0779,Hogar,AndesTech,1764.57,2047.03,1
+780,Tinta Modelo 0780,Oficina,Qori,1243.36,1671.24,1
+781,Funda Modelo 0781,Accesorios,Pacific,1345.45,2210.03,1
+782,Aspiradora Modelo 0782,Hogar,Qori,481.31,774.2,1
+783,Adaptador Modelo 0783,Accesorios,Kallpa,1186.7,1947.56,1
+784,Adaptador Modelo 0784,Accesorios,Inti,1505.7,2248.38,1
+785,Aspiradora Modelo 0785,Hogar,Qori,1119.45,1565.15,1
+786,Lampara Modelo 0786,Hogar,Orion,150.14,168.19,1
+787,Lampara Modelo 0787,Hogar,Nova,1325.89,1772.44,1
+788,Cafetera Modelo 0788,Hogar,Inti,1348.78,2092.56,1
+789,Teclado Modelo 0789,Tecnologia,Inti,850.12,1306.51,1
+790,Mouse Modelo 0790,Tecnologia,Orion,174.55,261.83,1
+791,Monitor Modelo 0791,Tecnologia,Inti,974.71,1436.38,1
+792,Silla Modelo 0792,Oficina,Orion,1033.4,1322.54,1
+793,Ventilador Modelo 0793,Hogar,Inti,827.03,926.76,1
+794,Funda Modelo 0794,Accesorios,Kallpa,34.57,40.59,1
+795,Lampara Modelo 0795,Hogar,Kallpa,806.82,1000.72,1
+796,Cafetera Modelo 0796,Hogar,Orion,1299.31,1558.94,1
+797,Cable USB Modelo 0797,Accesorios,AndesTech,1733.77,2275.4,1
+798,Silla Modelo 0798,Oficina,Kallpa,164.29,191.75,1
+799,Aspiradora Modelo 0799,Hogar,Orion,325.24,491.89,1
+800,Licuadora Modelo 0800,Hogar,AndesTech,407.77,577.15,1
+801,Aspiradora Modelo 0801,Hogar,AndesTech,1179.69,1452.02,1
+802,Aspiradora Modelo 0802,Hogar,Pacific,703.47,946.13,1
+803,Teclado Modelo 0803,Tecnologia,Pacific,266.66,363.91,1
+804,Papel Modelo 0804,Oficina,Kallpa,97.06,121.36,1
+805,Laptop Modelo 0805,Tecnologia,Nova,85.66,120.76,1
+806,Silla Modelo 0806,Oficina,Nova,1775.42,2531.83,1
+807,Cargador Modelo 0807,Accesorios,Inti,1041.99,1700.39,1
+808,Archivador Modelo 0808,Oficina,Pacific,597.34,924.19,1
+809,Monitor Modelo 0809,Tecnologia,Kallpa,1606.36,1957.28,1
+810,Escritorio Modelo 0810,Oficina,Nova,1666.8,2583.12,1
+811,Impresora Modelo 0811,Tecnologia,Inti,314.61,375.57,1
+812,Papel Modelo 0812,Oficina,Qori,886.32,1176.15,0
+813,Audifonos Modelo 0813,Tecnologia,Inti,27.27,43.89,1
+814,Ventilador Modelo 0814,Hogar,Pacific,1642.38,1871.83,1
+815,Monitor Modelo 0815,Tecnologia,Pacific,807.72,1036.95,1
+816,Ventilador Modelo 0816,Hogar,Nova,720.51,1168.63,1
+817,Audifonos Modelo 0817,Tecnologia,Orion,479.42,543.25,1
+818,Cargador Modelo 0818,Accesorios,AndesTech,1460.11,1635.77,1
+819,Lampara Modelo 0819,Hogar,Pacific,502.72,581.61,1
+820,Laptop Modelo 0820,Tecnologia,Inti,1082.39,1753.27,1
+821,Funda Modelo 0821,Accesorios,Orion,263.93,353.0,1
+822,Cable USB Modelo 0822,Accesorios,Kallpa,261.72,362.9,1
+823,Hub USB Modelo 0823,Accesorios,Pacific,605.09,864.98,1
+824,Lampara Modelo 0824,Hogar,Kallpa,140.33,202.03,1
+825,Lampara Modelo 0825,Hogar,AndesTech,528.47,703.69,1
+826,Licuadora Modelo 0826,Hogar,Pacific,665.65,876.95,1
+827,Escritorio Modelo 0827,Oficina,Qori,1306.53,2072.16,0
+828,Tinta Modelo 0828,Oficina,Kallpa,1757.45,2527.26,1
+829,Tinta Modelo 0829, tecnologia ,Inti,1725.7,2723.25,1
+830,Monitor Modelo 0830,Tecnologia,Qori,913.5,1173.83,1
+831,Cafetera Modelo 0831,Hogar,Nova,41.84,59.17,1
+832,Laptop Modelo 0832,Tecnologia,Pacific,1676.64,2129.13,1
+833,Laptop Modelo 0833,Tecnologia,Pacific,1489.27,2264.88,1
+834,Audifonos Modelo 0834,Tecnologia,Inti,430.02,502.05,1
+835,Audifonos Modelo 0835,Tecnologia,Nova,1749.57,2112.66,1
+836,Impresora Modelo 0836,Tecnologia,Qori,184.52,271.37,1
+837,Cargador Modelo 0837,Accesorios,Inti,381.68,627.17,1
+838,Ventilador Modelo 0838,Hogar,Inti,659.94,1034.74,1
+839,Teclado Modelo 0839,Tecnologia,Orion,1702.11,2393.83,1
+840,Monitor Modelo 0840,Tecnologia,Kallpa,1435.73,1796.02,1
+841,Cargador Modelo 0841,Accesorios,Pacific,137.53,171.41,1
+842,Lampara Modelo 0842,Hogar,Pacific,194.43,292.76,1
+843,Cafetera Modelo 0843,Hogar,Qori,1773.28,2071.75,1
+844,Cafetera Modelo 0844,Hogar,Pacific,37.93,50.72,1
+845,Hub USB Modelo 0845,Accesorios,Pacific,211.14,343.02,1
+846,Cafetera Modelo 0846,Hogar,AndesTech,1185.97,1918.28,1
+847,Silla Modelo 0847,Oficina,Inti,1714.46,2061.06,1
+848,Lampara Modelo 0848,Hogar,AndesTech,514.87,795.74,1
+849,Papel Modelo 0849,Oficina,Kallpa,1490.73,2204.83,1
+850,Hub USB Modelo 0850,Accesorios,Orion,,1455.57,1
+851,Mouse Modelo 0851,Tecnologia,Inti,1321.45,1947.82,1
+852,Archivador Modelo 0852,Oficina,Nova,53.06,64.77,1
+853,Hub USB Modelo 0853,Accesorios,Orion,237.38,365.81,1
+854,Monitor Modelo 0854,Tecnologia,Kallpa,679.61,915.94,1
+855,Monitor Modelo 0855,Tecnologia,Qori,1320.55,1890.53,1
+856,Archivador Modelo 0856,Oficina,Pacific,1250.18,1439.95,1
+857,Archivador Modelo 0857,Oficina,Kallpa,1282.35,1477.22,0
+858,Mouse Modelo 0858,Tecnologia,AndesTech,378.03,524.74,1
+859,Cable USB Modelo 0859,Accesorios,Qori,1350.33,2004.05,1
+860,Monitor Modelo 0860,Tecnologia,AndesTech,1536.24,2456.46,1
+861,Archivador Modelo 0861,Oficina,Nova,446.34,629.54,1
+862,Cafetera Modelo 0862,Hogar,Orion,585.41,685.37,1
+863,Licuadora Modelo 0863,Hogar,AndesTech,1537.19,2123.88,1
+864,Laptop Modelo 0864,Tecnologia,Nova,471.1,621.34,1
+865,Ventilador Modelo 0865,Hogar,Qori,577.88,774.32,1
+866,Monitor Modelo 0866,Tecnologia,AndesTech,943.31,1060.63,1
+867,Audifonos Modelo 0867,Tecnologia,Orion,1437.99,1805.58,1
+868,Adaptador Modelo 0868,Accesorios,AndesTech,983.85,1143.71,1
+869,Monitor Modelo 0869,Tecnologia,Pacific,596.14,782.34,0
+870,Licuadora Modelo 0870,Hogar,Orion,1523.07,2036.67,1
+871,Lampara Modelo 0871,Hogar,AndesTech,1582.57,1900.7,1
+872,Mouse Modelo 0872, tecnologia ,Nova,1176.8,1431.25,1
+873,Mouse Modelo 0873,Tecnologia,Orion,1120.09,1332.73,1
+874,Escritorio Modelo 0874,Oficina,Inti,437.52,627.02,1
+875,Silla Modelo 0875,Oficina,AndesTech,882.14,1224.63,1
+876,Papel Modelo 0876,Oficina,Qori,225.29,264.01,1
+877,Teclado Modelo 0877,Tecnologia,AndesTech,44.13,52.7,1
+878,Escritorio Modelo 0878,Oficina,Kallpa,608.31,876.39,1
+879,Cafetera Modelo 0879,Hogar,Qori,1443.19,2325.5,1
+880,Licuadora Modelo 0880,Hogar,Kallpa,1393.45,1905.08,1
+881,Silla Modelo 0881,Oficina,Orion,780.5,1005.48,1
+882,Adaptador Modelo 0882,Accesorios,Kallpa,1452.23,1914.51,1
+883,Hub USB Modelo 0883,Accesorios,Pacific,184.88,285.58,1
+884,Archivador Modelo 0884,Oficina,AndesTech,80.44,132.23,1
+885,Laptop Modelo 0885,Tecnologia,AndesTech,1282.65,1462.04,1
+886,Monitor Modelo 0886,Tecnologia,Orion,376.01,473.38,1
+887,Ventilador Modelo 0887,Hogar,Nova,355.4,559.51,1
+888,Hub USB Modelo 0888,Accesorios,Orion,729.33,1130.3,1
+889,Tinta Modelo 0889,Oficina,Nova,912.26,1106.42,1
+890,Silla Modelo 0890,Oficina,Pacific,622.18,780.69,1
+891,Archivador Modelo 0891,Oficina,Qori,295.06,423.94,1
+892,Cable USB Modelo 0892,Accesorios,AndesTech,1321.05,1944.53,1
+893,Archivador Modelo 0893,Oficina,Nova,666.3,775.3,1
+894,Monitor Modelo 0894,Tecnologia,AndesTech,694.26,1025.12,1
+895,Ventilador Modelo 0895,Hogar,Nova,605.9,701.02,1
+896,Impresora Modelo 0896,Tecnologia,Nova,1411.47,1981.94,1
+897,Laptop Modelo 0897,Tecnologia,Qori,1070.53,1660.63,1
+898,Licuadora Modelo 0898,Hogar,Nova,299.7,427.49,1
+899,Mouse Modelo 0899,Tecnologia,Kallpa,1720.92,2754.8,1
+900,Adaptador Modelo 0900,Accesorios,Kallpa,1008.4,1186.3,1
+901,Impresora Modelo 0901,Tecnologia,Qori,182.78,280.37,1
+902,Cargador Modelo 0902,Accesorios,AndesTech,66.75,75.49,1
+903,Cafetera Modelo 0903,Hogar,Kallpa,337.33,523.26,1
+904,Archivador Modelo 0904,Oficina,Orion,975.83,1199.45,1
+905,Papel Modelo 0905,Oficina,Pacific,961.38,1341.26,1
+906,Escritorio Modelo 0906,Oficina,Pacific,883.65,1181.02,1
+907,Hub USB Modelo 0907,Accesorios,Orion,1071.85,1644.49,1
+908,Cable USB Modelo 0908,Accesorios,Qori,93.52,130.89,1
+909,Teclado Modelo 0909,Tecnologia,Orion,435.19,717.86,1
+910,Funda Modelo 0910,Accesorios,Kallpa,1320.03,1499.12,1
+911,Archivador Modelo 0911,Oficina,Pacific,769.51,1164.7,1
+912,Lampara Modelo 0912,Hogar,AndesTech,1549.32,2109.53,1
+913,Adaptador Modelo 0913,Accesorios,Pacific,329.49,429.35,1
+914,Escritorio Modelo 0914,Oficina,Qori,1198.75,1951.26,1
+915,Cable USB Modelo 0915,Accesorios,Kallpa,789.46,1074.53,0
+916,Lampara Modelo 0916,Hogar,Pacific,1736.47,2823.13,1
+917,Audifonos Modelo 0917,Tecnologia,Pacific,1728.55,2740.42,1
+918,Funda Modelo 0918,Accesorios,Nova,92.46,145.58,1
+919,Funda Modelo 0919,Accesorios,AndesTech,648.28,864.32,1
+920,Impresora Modelo 0920,Tecnologia,Inti,1734.31,2143.09,1
+921,Cargador Modelo 0921,Accesorios,Orion,337.76,427.58,1
+922,Papel Modelo 0922,Oficina,Inti,359.59,510.93,1
+923,Hub USB Modelo 0923,Accesorios,Pacific,285.34,456.68,1
+924,Escritorio Modelo 0924,Oficina,Orion,1372.05,1597.74,1
+925,Escritorio Modelo 0925,Oficina,Orion,1663.42,2407.31,1
+926,Tinta Modelo 0926,Oficina,Orion,1682.69,2311.3,1
+927,Licuadora Modelo 0927,Hogar,Qori,656.8,1083.45,1
+928,Tinta Modelo 0928,Oficina,Pacific,1737.21,2624.1,1
+929,Silla Modelo 0929,Oficina,Qori,972.41,1500.83,1
+930,Funda Modelo 0930,Accesorios,AndesTech,1629.65,2596.05,1
+931,Adaptador Modelo 0931,Accesorios,Pacific,314.16,442.14,1
+932,Adaptador Modelo 0932,Accesorios,Orion,659.85,812.37,1
+933,Mouse Modelo 0933,Tecnologia,Inti,1230.18,1715.61,1
+934,Laptop Modelo 0934,Tecnologia,Qori,1392.72,1958.83,1
+935,Tinta Modelo 0935,Oficina,Kallpa,1254.38,1578.45,1
+936,Tinta Modelo 0936,Oficina,Orion,1218.37,1866.14,1
+937,Escritorio Modelo 0937,Oficina,Nova,1059.38,1433.67,1
+938,Tinta Modelo 0938,Oficina,Kallpa,1016.69,1537.69,1
+939,Impresora Modelo 0939,Tecnologia,Kallpa,697.16,890.21,1
+940,Funda Modelo 0940,Accesorios,Kallpa,1299.63,1649.92,1
+941,Adaptador Modelo 0941,Accesorios,AndesTech,954.41,1088.84,1
+942,Audifonos Modelo 0942,Tecnologia,Pacific,74.03,97.01,1
+943,Impresora Modelo 0943,Tecnologia,Pacific,1164.99,1731.1,1
+944,Funda Modelo 0944,Accesorios,Nova,177.54,211.8,1
+945,Hub USB Modelo 0945,Accesorios,Orion,705.19,905.81,1
+946,Lampara Modelo 0946,Hogar,Inti,1102.9,1284.94,1
+947,Escritorio Modelo 0947,Oficina,Kallpa,1200.31,1381.45,1
+948,Laptop Modelo 0948,Tecnologia,Nova,606.27,762.17,1
+949,Cable USB Modelo 0949,Accesorios,Qori,1268.09,1687.24,1
+950,Mouse Modelo 0950,Tecnologia,Nova,30.78,48.05,1
+951,Cable USB Modelo 0951,Accesorios,Kallpa,764.34,1137.29,1
+952,Ventilador Modelo 0952,Hogar,Kallpa,181.52,290.32,1
+953,Papel Modelo 0953,Oficina,Qori,1114.97,1618.5,1
+954,Cargador Modelo 0954,Accesorios,Pacific,480.07,709.73,1
+955,Mouse Modelo 0955,Tecnologia,Inti,349.13,498.9,1
+956,Silla Modelo 0956,Oficina,AndesTech,1473.28,1726.64,1
+957,Cafetera Modelo 0957,Hogar,Qori,1360.18,2227.47,1
+958,Cable USB Modelo 0958,Accesorios,Kallpa,346.75,554.95,1
+959,Cable USB Modelo 0959,Accesorios,Kallpa,1410.96,2299.73,1
+960,Licuadora Modelo 0960,Hogar,Qori,1424.3,1627.8,1
+961,Audifonos Modelo 0961,Tecnologia,Kallpa,1200.54,1364.52,1
+962,Laptop Modelo 0962,Tecnologia,Kallpa,976.47,1119.15,1
+963,Licuadora Modelo 0963,Hogar,Qori,985.83,1123.19,1
+964,Laptop Modelo 0964,Tecnologia,Nova,443.07,728.8,1
+965,Licuadora Modelo 0965,Hogar,Qori,1222.69,1704.82,1
+966,Audifonos Modelo 0966,Tecnologia,AndesTech,1732.1,2763.84,1
+967,Hub USB Modelo 0967,Accesorios,AndesTech,167.91,228.46,1
+968,Cargador Modelo 0968,Accesorios,Orion,972.77,1159.84,1
+969,Papel Modelo 0969,Oficina,Qori,1342.53,1618.92,0
+970,Adaptador Modelo 0970,Accesorios,AndesTech,1709.59,2391.74,1
+971,Silla Modelo 0971,Oficina,Nova,760.89,1000.66,1
+972,Monitor Modelo 0972,Tecnologia,Kallpa,1727.63,2637.22,1
+973,Silla Modelo 0973,Oficina,Nova,254.31,330.29,1
+974,Archivador Modelo 0974,Oficina,Nova,700.0,866.37,1
+975,Adaptador Modelo 0975,Accesorios,Qori,71.48,103.09,1
+976,Impresora Modelo 0976,Tecnologia,Orion,434.57,565.44,1
+977,Tinta Modelo 0977,Oficina,Inti,1063.22,1441.44,1
+978,Adaptador Modelo 0978,Accesorios,Kallpa,1513.56,1970.18,1
+979,Escritorio Modelo 0979,Oficina,Qori,87.71,141.03,1
+980,Cable USB Modelo 0980,Accesorios,Qori,1148.81,1366.1,1
+981,Tinta Modelo 0981,Oficina,Pacific,431.09,543.23,1
+982,Lampara Modelo 0982,Hogar,Pacific,1708.31,2682.49,1
+983,Teclado Modelo 0983,Tecnologia,AndesTech,1668.93,2012.11,1
+984,Lampara Modelo 0984,Hogar,Inti,927.79,1144.61,1
+985,Escritorio Modelo 0985,Oficina,Orion,1654.07,2031.89,1
+986,Ventilador Modelo 0986,Hogar,AndesTech,375.74,563.04,1
+987,Archivador Modelo 0987,Oficina,AndesTech,10.23,15.99,0
+988,Laptop Modelo 0988,Tecnologia,AndesTech,1626.32,2330.1,1
+989,Escritorio Modelo 0989,Oficina,Kallpa,1297.8,2005.13,0
+990,Archivador Modelo 0990,Oficina,Qori,1533.63,1967.76,1
+991,Hub USB Modelo 0991,Accesorios,Inti,1003.44,1154.77,0
+992,Ventilador Modelo 0992,Hogar,AndesTech,1544.77,2536.55,1
+993,Hub USB Modelo 0993,Accesorios,Pacific,1214.9,1906.66,1
+994,Lampara Modelo 0994,Hogar,Pacific,1107.16,1275.34,1
+995,Funda Modelo 0995,Accesorios,AndesTech,1367.29,1748.98,1
+996,Teclado Modelo 0996,Tecnologia,Orion,1027.06,1366.68,1
+997,Licuadora Modelo 0997,Hogar,AndesTech,1524.0,1904.21,1
+998,Tinta Modelo 0998,Oficina,AndesTech,1568.41,2445.96,1
+999,Ventilador Modelo 0999,Hogar,Qori,282.44,465.39,1
+1000,Cargador Modelo 1000,Accesorios,Pacific,1588.68,2159.58,1

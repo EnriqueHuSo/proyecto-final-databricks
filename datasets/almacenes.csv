@@ -1,0 +1,21 @@
+almacen_id,nombre_almacen,ciudad,region,es_activo
+1,Almacen Lima 1,Lima,Costa,1
+2,Almacen Arequipa 1,Arequipa,Sierra,1
+3,Almacen Trujillo 1,Trujillo,Costa,1
+4,Almacen Cusco 1,Cusco,Sierra,1
+5,Almacen Piura 1,Piura,Costa,1
+6,Almacen Chiclayo 1,Chiclayo,Costa,1
+7,Almacen Iquitos 1,Iquitos,Selva,1
+8,Almacen Huancayo 1,Huancayo,Sierra,1
+9,Almacen Lima 2,Lima,Costa,1
+10,Almacen Arequipa 2,Arequipa,Sierra,1
+11,Almacen Trujillo 2,Trujillo,Costa,1
+12,Almacen Cusco 2,Cusco,Sierra,1
+13,Almacen Piura 2,Piura,Costa,1
+14,Almacen Chiclayo 2,Chiclayo,Costa,1
+15,Almacen Iquitos 2,Iquitos,Selva,1
+16,Almacen Huancayo 2,Huancayo,Sierra,1
+17,Almacen Lima 3,Lima,Costa,1
+18,Almacen Arequipa 3,Arequipa,Sierra,1
+19,Almacen Trujillo 3,Trujillo,Costa,1
+20,Almacen Cusco 3,Cusco,Sierra,0
